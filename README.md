@@ -1,6 +1,6 @@
 <img src="https://github.com/Gerson201/gerson201/assets/93331131/68ae725a-1472-4492-9247-781c765e92b0)" width="1000" height="200">
 
-#**Seja Bem Vindo(a)**
+**Seja Bem Vindo(a)**
 ---
 👋 Olá! Sou Gerson Santos, um Engenhario Elétricista com um olhar curioso para o mundo da Engenharia de Software. Com uma mente inquieta e apaixonada por desafios, encontrei no desenvolvimento de software a oportunidade perfeita para explorar minha criatividade e minha paixão por construir coisas novas.
 
@@ -10,7 +10,7 @@
 
 💡 Fascinado pela arte de transformar conceitos em realidade tangível, busco constantemente desafios que me permitam explorar minha criatividade e habilidades técnicas. Na engenharia de software, encontrei o terreno fértil perfeito para canalizar minha paixão por desenvolver soluções inovadoras e funcionais.
 
-Tecnologias:
+**Tecnologias:**
 ---
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -20,14 +20,17 @@ Tecnologias:
   
 </div>
 
-Social:
+
+**Social:**
 ---
 <div>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.linkedin.com/in/gerson-santos-67656290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/gerson_santoos?igsh=MWV3eTJxYm5iYXZocQ%3D%3D&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+ </div>
 
-  
-</div>
-
-
+---
 🚀 Seja bem-vindo ao meu universo de códigos e projetos! Estou ansioso para colaborar, aprender e crescer junto com esta incrível comunidade do GitHub. Vamos construir algo incrível juntos!

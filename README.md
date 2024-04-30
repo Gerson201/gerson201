@@ -19,6 +19,13 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   
 </div>
+<div>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerson201&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerson201&size_weight=0.5&count_weight=0.5)
+  
+</div>
 
 
 **Social:**

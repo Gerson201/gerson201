@@ -1,45 +1,70 @@
-<img src="https://github.com/Gerson201/gerson201/assets/93331131/68ae725a-1472-4492-9247-781c765e92b0)" width="1000" height="200">
+<img src="https://github.com/Gerson201/gerson201/assets/93331131/68ae725a-1472-4492-9247-781c765e92b0" width="1000" height="200">
 
-**Seja Bem Vindo(a)**
+## Olá, sou Gerson Santos 👋
+
+Engenheiro com dupla formação em **Engenharia de Software** e **Engenharia Elétrica** — desenvolvo sistemas de IA aplicada, visão computacional e automação de processos, além de projetos executivos elétricos (subestações industriais, solar fotovoltaico, SPDA).
+
+🔗 **Portfólio:** [gerson201.github.io/Portifolio](https://gerson201.github.io/Portifolio/)
+
 ---
-👋 Olá! Sou Gerson Santos, um Engenhario Elétricista com um olhar curioso para o mundo da Engenharia de Software. Com uma mente inquieta e apaixonada por desafios, encontrei no desenvolvimento de software a oportunidade perfeita para explorar minha criatividade e minha paixão por construir coisas novas.
 
-🎓 Graduado em Engenharia Elétrica, mergulhei de cabeça nos circuitos e na elétrica de potência, mas a minha sede por novos horizontes me trouxe ao fascinante universo da Engenharia de Software. Atualmente, estou imerso nesse campo buscando outra graduação em Engenharia de Software, absorvendo conhecimento e ampliando minhas habilidades para criar soluções inovadoras e eficientes.
+### 🎓 Formação
 
-💬 Sou uma alma extrovertida, sempre pronta para uma conversa estimulante e troca de ideias. Acredito no poder do diálogo para inspirar novas perspectivas e impulsionar o crescimento pessoal e profissional.
+| Curso | Instituição | Situação |
+|---|---|---|
+| Bacharelado em Engenharia de Software | UNIFRAN | Em andamento |
+| Mestrado em Modelagem Computacional | Unimontes | Aguardando Defesa |
+| Pós-Graduação em Ciência de Dados | Unimontes | Em andamento |
+| Bacharelado em Engenharia Elétrica | Faculdades Santo Agostinho | Concluído ✓ |
+| Técnico em Eletrotécnica | FEMC | Concluído ✓ |
 
-💡 Fascinado pela arte de transformar conceitos em realidade tangível, busco constantemente desafios que me permitam explorar minha criatividade e habilidades técnicas. Na engenharia de software, encontrei o terreno fértil perfeito para canalizar minha paixão por desenvolver soluções inovadoras e funcionais.
-
-**Tecnologias:**
 ---
+
+### 💻 Stack de Software
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+### ⚡ Engenharia Elétrica
+
+![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+`Subestações MT/BT` `SPDA NBR 5419` `Coordenação de Proteção` `Solar Fotovoltaico` `IoT Industrial` `PRODIST / ANEEL`
+
+---
+
+### 📊 GitHub Stats
+
 <div>
-  <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src ="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src ="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gerson201&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerson201&layout=compact&theme=dark&hide_border=true)
+
 </div>
-<div>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerson201&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerson201&size_weight=0.5&count_weight=0.5)
-  
-</div>
-
-
-**Social:**
----
-<div>
-  <a href="https://www.linkedin.com/in/gerson-santos-67656290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/gerson_santoos">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
- </div>
 
 ---
-🚀 Seja bem-vindo ao meu universo de códigos e projetos! Estou ansioso para colaborar, aprender e crescer junto com esta incrível comunidade do GitHub. Vamos construir algo incrível juntos!
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerson-santos-14a94b24b)
+[![Portfólio](https://img.shields.io/badge/Portfólio-171515?style=for-the-badge&logo=github&logoColor=white)](https://gerson201.github.io/Portifolio/)
